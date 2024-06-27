@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4eb7035-86a2-4a3e-9e63-cc582f15c1f7" name="Changes" comment="committ by adding stdent into subDevelop2" />
+    <list default="true" id="c4eb7035-86a2-4a3e-9e63-cc582f15c1f7" name="Changes" comment="committ by adding stdent into subDevelop2">
+      <change beforePath="$PROJECT_DIR$/src/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="subDevelop2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +40,7 @@
   "keyToString": {
     "Application.CarDetails.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "subDevelop2",
+    "git-widget-placeholder": "subDevelop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HP-PC/Desktop/Java/Student",
     "onboarding.tips.debug.path": "C:/Users/HP-PC/Desktop/Java/Car/src/Main.java"
